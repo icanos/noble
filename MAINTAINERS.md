@@ -1,1 +1,1 @@
-* Philippe Coval <mailto:p.coval@samsung.com> (https://www.npmjs.com/~rzr)
+* Marcus Westin <mailto:marcus@sekurbit.se> (https://www.npmjs.com/~icanos)

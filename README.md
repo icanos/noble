@@ -1,13 +1,6 @@
 # ![noble](assets/noble-logo.png)
 
-[![Build Status](https://travis-ci.org/abandonware/noble.svg?branch=master)](https://travis-ci.org/abandonware/noble)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/abandonware/noble?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![OpenCollective](https://opencollective.com/noble/backers/badge.svg)](#backers)
-[![OpenCollective](https://opencollective.com/noble/sponsors/badge.svg)](#sponsors)
-
-
 A Node.js BLE (Bluetooth Low Energy) central module.
-
-Want to implement a peripheral? Checkout [bleno](https://github.com/abandonware/bleno)
 
 __Note:__ macOS / Mac OS X, Linux, FreeBSD and Windows are currently the only supported OSes. Other platforms may be developed later on.
 
@@ -100,13 +93,13 @@ You need to stop scanning before trying to connect in order to solve this issue.
 ## Install
 
 ```sh
-npm install @abandonware/noble
+npm install @icanos/noble
 ```
 
 ## Usage
 
 ```javascript
-var noble = require('@abandonware/noble');
+var noble = require('@icanos/noble');
 ```
 
 ### Actions
